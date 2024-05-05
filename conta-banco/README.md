@@ -9,26 +9,26 @@ O Desafio envolve a criação de um programa simples em Java chamado `ContaTermi
 ## Como Utilizar o Programa
 
 1. Certifique-se de ter o Java instalado em seu computador.
-2. Clone este repositório:
+2. Clone este repositório e navegue até a pasta "conta-banco":
 
 ```
-git clone https://github.com/seuusuario/desafio-santander-2024.git
+git clone https://github.com/DevBatistaFer/JavaBasic.git
+cd JavaBasic/conta-banco
 ```
 
-3. Navegue até o diretório onde o repositório foi clonado.
-4. Compile o código-fonte do programa:
+3. Compile o código-fonte do programa:
 
 ```
 javac ContaTerminal.java
 ```
 
-5. Execute o programa:
+4. Execute o programa:
 
 ```
 java ContaTerminal
 ```
 
-6. Siga as instruções fornecidas pelo programa para inserir as informações solicitadas.
+5. Siga as instruções fornecidas pelo programa para inserir as informações solicitadas.
 
 ## Exemplo de Uso
 
