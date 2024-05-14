@@ -34,20 +34,11 @@ java App
 
 
 
-<style>
-.dark-bg {
-    background-color: #1a1a1a;
-    color: #ddd;
-    padding: 10px;
-    border-radius: 5px;
-    overflow-x: auto;
-}
-</style>
+
 
 ## Programa Rodando
 
-
-<div class="dark-bg">
+```plaintext {.dark}
 ********** PROCESSO SELETIVO **********
 
 FELIPE quer receber R$2001,97
@@ -94,4 +85,4 @@ NÃO CONSEGUIMOS CONTATO COM MIRELA, NÚMERO MAXIMO TENTATIVAS 3 REALIZADA
 
 JORGE
 NÃO CONSEGUIMOS CONTATO COM JORGE, NÚMERO MAXIMO TENTATIVAS 3 REALIZADA
-</div>
+```
